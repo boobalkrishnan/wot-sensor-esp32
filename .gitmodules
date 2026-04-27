@@ -1,0 +1,6 @@
+[submodule "wotcpp"]
+	path = wotcpp
+	url = git@github.com:boobalkrishnan/wotcpp.git
+[submodule "Devices/wot-virtual-clock"]
+	path = Devices/wot-virtual-clock
+	url = git@github.com:boobalkrishnan/wot-virtual-clock.git
